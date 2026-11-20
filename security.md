@@ -186,6 +186,6 @@ Use the button in the Quick Start section.
 
 ---
 
-*Monster Hunter Wilds · Updated 2026-11-19 · Shared under the MIT License*
+*Monster Hunter Wilds · Updated 2026-11-20 · Shared under the MIT License*
 
-<!-- last reviewed 2026-11-19 -->
+<!-- last reviewed 2026-11-20 -->
